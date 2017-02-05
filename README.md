@@ -284,7 +284,8 @@ asdf
     'Pulsar': pulsar,
     'Pipsquirter': pipsquirter,
     'pattern_104P177': pattern_104P177,
-    'pi_orbital': pi_orbital}
+    'pi_orbital': pi_orbital
+  }
 ```
 
 <a name="all-examples"></a>

@@ -21,10 +21,13 @@ To install the `Matplotlib` dependency from [Python Package Index](https://pypi.
 Other dependencies of this project are native to Python platform:
 
 ```python
+  from itertools import product
+  from itertools import groupby
+  import time
   import os
   import errno
   import argparse
-  import time
+  import cPickle as pickle
 ```
 
 ## Contact / License

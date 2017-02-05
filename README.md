@@ -2,7 +2,7 @@
 
 Python project for
 
-* (i) [Conway's Pattern Analyzer](#conways-pattern-analyzer) - a pattern analyzer approach for simulation and verification of cell patterns of types (i) oscillator and (ii) still life based on the context of Conway's Game of Life
+* (i) [Conway's Pattern Analyzer](#conways-pattern-analyzer) - a pattern analyzer approach for simulation and verification of cell patterns of types (i) oscillator and (ii) still life based on the context of Conway's Game of Life ([examples](#all-examples))
 
 ## Dependencies
 
